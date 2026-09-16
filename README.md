@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · U39FAGLy -->
-## Notification 1/2
-Round: Round 1
-To: aipeter13@yahoo.com, aipeter13@outlook.com
-At: 2026-09-16 12:04:25
-Id: U39FAGLy
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: aipeter13@gmail.com, nawab.siddiqui@aol.com
+At: 2026-09-16 12:04:44
+Id: OblAUAd9
